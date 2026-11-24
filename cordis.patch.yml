@@ -1,0 +1,7 @@
+- insert:
+    - id: feishu-docs
+      name: '@local/feishu-docs'
+      config:
+        callbackPort: 18923
+        appIdRef: FEISHU_APP_ID
+        appSecretRef: FEISHU_APP_SECRET
